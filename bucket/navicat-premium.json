@@ -8,7 +8,7 @@
     "bin": "navicat.exe",
     "shortcuts": [
         [
-            "Navicat Premium.exe",
+            "navicat.exe",
             "Navicat Premium"
         ]
     ]
