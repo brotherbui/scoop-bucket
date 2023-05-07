@@ -1,0 +1,17 @@
+{
+    "homepage": "https://www.navicat.com",
+    "version": "16.1.9",
+    "license": "Proprietary",
+    "url": "https://download3.navicat.com/download/navicat161_premium_en_x64.exe#/dl.7z",
+    "extract_dir": "$PLUGINSDIR",
+    "installer": {
+        "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
+    },
+    "shortcuts": [
+        [
+            "Navicat.exe",
+            "Navicat"
+        ]
+    ]
+   
+}
