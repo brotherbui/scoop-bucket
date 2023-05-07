@@ -2,8 +2,8 @@
     "homepage": "https://www.navicat.com",
     "version": "16.1.5",
     "license": "d",
-    "url": "https://media.githubusercontent.com/media/brotherbui/scoop-binary/7601009d017ed4fe4e85b75c804e80cfaa791ea4/NavicatPremium-16.1.9.zip",
-    "hash": "1c54c630c8e35740e850fa0b72c844f89efed3ea6d3a6c41e8751053b4ff1636",
+    "url": "https://media.githubusercontent.com/media/brotherbui/scoop-binary/main/Navicat-Premium-16.zip",
+    "hash": "106cb943d6b50e4a2bc119f463ccdf44c4b60df37ca9f6d3d6e87c0d4744c681",
     "extract_dir": "Navicat-Premium",
     "bin": "navicat.exe",
     "shortcuts": [
