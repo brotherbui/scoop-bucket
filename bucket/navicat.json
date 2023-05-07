@@ -2,16 +2,18 @@
     "homepage": "https://www.navicat.com",
     "version": "16.1.9",
     "license": "Proprietary",
-    "url": "https://download3.navicat.com/download/navicat161_premium_en_x64.exe#/dl.7z",
-    "hash": "9db0ed8fda5876c58153e0cb7f50e227f5a98ff8dff99fa64d0f0c4ef4e0b837",
-    "extract_dir": "navicat",
+    "url": "https://media.githubusercontent.com/media/brotherbui/scoop-binary/7601009d017ed4fe4e85b75c804e80cfaa791ea4/NavicatPremium-16.1.9.zip",
+    "hash": "1c54c630c8e35740e850fa0b72c844f89efed3ea6d3a6c41e8751053b4ff1636",
+    "extract_dir": "NavicatPremium-16.1.9",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
     },
+    "bin": "filezilla.exe",
     "shortcuts": [
         [
             "Navicat Premium.exe",
-            "Navicat Premium"
+            "NavicatPremium"
         ]
-    ]
+    ],
+    "persist": "config"
 }
