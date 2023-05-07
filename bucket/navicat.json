@@ -5,10 +5,7 @@
     "url": "https://media.githubusercontent.com/media/brotherbui/scoop-binary/7601009d017ed4fe4e85b75c804e80cfaa791ea4/NavicatPremium-16.1.9.zip",
     "hash": "1c54c630c8e35740e850fa0b72c844f89efed3ea6d3a6c41e8751053b4ff1636",
     "extract_dir": "NavicatPremium-16.1.9",
-    "installer": {
-        "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
-    },
-    "bin": "filezilla.exe",
+    "bin": "Navicat Premium.exe",
     "shortcuts": [
         [
             "Navicat Premium.exe",
