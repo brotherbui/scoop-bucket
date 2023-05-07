@@ -1,7 +1,7 @@
 {
     "homepage": "https://www.navicat.com",
     "version": "16.1.15",
-    "license": "d",
+    "license": "Navicat",
     "url": "https://media.githubusercontent.com/media/brotherbui/scoop-binary/main/Navicat-Premium-16.zip",
     "hash": "106cb943d6b50e4a2bc119f463ccdf44c4b60df37ca9f6d3d6e87c0d4744c681",
     "extract_dir": "Navicat-Premium-16",
