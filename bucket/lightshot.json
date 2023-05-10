@@ -1,0 +1,15 @@
+{
+    "homepage": "https://app.prntscr.com/en/",
+    "version": "5.5",
+    "license": "Lightshot",
+    "url": "https://media.githubusercontent.com/media/brotherbui/scoop-binary/main/lightshot.zip",
+    "hash": "48b75ad9dca11cf3a2a9820c98b6aed91c5223d30f6459e623d8dcf55dbaf718",
+    "extract_dir": "lightshot",
+    "bin": "Lightshot.exe",
+    "shortcuts": [
+        [
+            "Lightshot.exe",
+            "Lightshot"
+        ]
+    ]
+}
