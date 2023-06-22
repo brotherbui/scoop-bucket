@@ -1,0 +1,15 @@
+{
+    "homepage": "https://www.araxis.com",
+    "version": "2023.5877",
+    "license": "Araxis",
+    "url": "https://phongblack.me/scoop-binary/Araxis-Merge.zip",
+    "hash": "04b430287f2fbf7159e54a171778c9b6766817dc60c259d6550abf2354b09380",
+    "extract_dir": "Araxis-Merge",
+    "bin": "Merge.exe",
+    "shortcuts": [
+        [
+            "Merge.exe",
+            "Araxis Merge"
+        ]
+    ]
+}
