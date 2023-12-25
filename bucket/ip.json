@@ -1,10 +1,10 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Check local IP address",
     "homepage": "https://phongblack.me",
     "license": "GPL-2.0-or-later",
     "url": "https://phongblack.me/media/ip-windows.zip",
-    "hash": "c1d253add73e997b64a20c398afdc468937ad7fadf3b0e8c9723a96088826edd",
+    "hash": "762b08c8e0002d7e2277c6655ac5e56d39bcfe1b53e20c9ec66d4579bc8d53d5",
     "extract_dir": "",
     "bin": "ip.exe",
     "shortcuts": [
